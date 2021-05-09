@@ -1,0 +1,28 @@
+{
+    "data" : [
+        {
+           "handlers" : [
+                {
+                    "handlerName" : "test",
+                    "handlerPercentage" : "50%"
+                },
+                {
+                    "handlerName" : "test",
+                    "handlerPercentage" : "50%"
+                }
+            ]
+        },
+        {
+            "handlers" : [
+                {
+                    "handlerName" : "test",
+                    "handlerPercentage" : "50%"
+                },
+                {
+                    "handlerName" : "test",
+                    "handlerPercentage" : "50%"
+                }
+            ]
+        }
+    ]
+}
